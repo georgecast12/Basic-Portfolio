@@ -2,4 +2,4 @@
 
 Basic profile website structure; contains: About Me, Portfolio & Contact.
 
-HTML & CS
+HTML & CSS
